@@ -1,3 +1,3 @@
 rendering：
 
-![Mou icon](http://mouapp.com/Mou_128.png)
+![Mou icon](https://raw.githubusercontent.com/ipoolo/PLLCircleProgress/master/CircleProgress.gif)
